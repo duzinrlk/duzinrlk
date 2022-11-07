@@ -4,5 +4,5 @@
 - 🌱 Aprendendo a programação de linguagem no P5js...
 - 💞️ Estudante do Novo Ensino Médio ...
 
--👍 E-mail para contato:corimbaba.nascimento@escola.pr.gov.br
+-👍 E-mail para contato:eduardo.corimbaba.nascimento@escola.pr.gov.br
 
